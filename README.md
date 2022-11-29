@@ -1,4 +1,4 @@
-# Een-centralpoland
+# EEN centralpoland
 
 Strona wykonana z wykorzystaniem skryptu Wordpress.Witryna została przystosowana do wygodnego przeglądania za pośrednictwem urządzeń mobilnych.
 
